@@ -29,5 +29,5 @@ User Manual of the module (Chinese & English):
 [HLK-7621A用户手册V1.5.pdf](https://github.com/openwrt/openwrt/files/5884699/HLK-7621A.V1.5.pdf)
 
 ## Compiling Openwrt
-- If Openwrt, please reference this [pull request](https://github.com/openwrt/openwrt/pull/4046).
-- If LEDE By Lean, you can use the DTS and makefile [here](https://github.com/cyijun/MT7621A-Router-Design/tree/main/dts%26makefile).
+- If [Openwrt](https://github.com/openwrt/openwrt), please reference this [pull request](https://github.com/openwrt/openwrt/pull/4046).
+- If [LEDE By Lean](https://github.com/coolsnowwolf/lede), you can use the DTS and makefile [here](https://github.com/cyijun/MT7621A-Router-Design/tree/main/dts%26makefile).
