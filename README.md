@@ -30,4 +30,4 @@ User Manual of the module (Chinese & English):
 
 ## Compiling Openwrt
 - If [Openwrt](https://github.com/openwrt/openwrt), it has been merged to the master branch🎉 Edit and select the HLK-7621A evb in the `make menuconfig` interface.
-- If [LEDE By Lean](https://github.com/coolsnowwolf/lede), you can use the DTS and makefile [here](https://github.com/cyijun/MT7621A-Router-Design/tree/main/dts%26makefile).
+- If [LEDE By Lean](https://github.com/coolsnowwolf/lede), DTS merged too🎉 Can start `make menuconfig` without extra operations.
